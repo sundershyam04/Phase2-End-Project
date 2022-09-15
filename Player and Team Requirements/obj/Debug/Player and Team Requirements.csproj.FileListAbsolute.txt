@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe.config
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\bin\Debug\Player and Team Requirements.pdb
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\obj\Debug\Player and Team Requirements.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Phase projects\Player and Team Requirements\obj\Debug\Player and Team Requirements.pdb
